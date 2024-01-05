@@ -9,10 +9,10 @@ This is a Python script for algorithmic trading utilizing the Relative Strength 
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Generate Signal for Buying and selling
+- Plots the complete stock chart along with the signals
+- Can be customized for any stock prediction
+
 
 
 # Documentation
